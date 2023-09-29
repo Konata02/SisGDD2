@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SisGDD2/static/css/main.b509a809.css",
+    "main.js": "/SisGDD2/static/js/main.e6dc8a48.js",
+    "static/media/Ritmo.png": "/SisGDD2/static/media/Ritmo.363db5adc00c98ec4e78.png",
+    "static/media/gds.png": "/SisGDD2/static/media/gds.1b46a0ff1a994e4b62f5.png",
+    "static/media/RPG.png": "/SisGDD2/static/media/RPG.b580ab11b9b920b7827e.png",
+    "static/media/Estratégia.png": "/SisGDD2/static/media/Estratégia.38f90b3c852ba3694930.png",
+    "static/media/quebra-cabeças.png": "/SisGDD2/static/media/quebra-cabeças.3942d13167851ba5c262.png",
+    "static/media/Esporte.png": "/SisGDD2/static/media/Esporte.ef8b9291724a7d9f9e12.png",
+    "static/media/Simulação.png": "/SisGDD2/static/media/Simulação.e943befa2b8b6d7502e8.png",
+    "static/media/aventura.jpeg": "/SisGDD2/static/media/aventura.17c56998d530bb85a2eb.jpeg",
+    "static/media/corrida.jpeg": "/SisGDD2/static/media/corrida.10949822e8a071ebc861.jpeg",
+    "static/media/acao.jpeg": "/SisGDD2/static/media/acao.1a7a193b22a855f94dde.jpeg",
+    "static/media/sisgdd_logo.png": "/SisGDD2/static/media/sisgdd_logo.40af44e4843f6de43fff.png",
+    "static/media/logo_gto_vf.png": "/SisGDD2/static/media/logo_gto_vf.d0b92eb301fd60de6cc8.png",
+    "index.html": "/SisGDD2/index.html",
+    "main.b509a809.css.map": "/SisGDD2/static/css/main.b509a809.css.map",
+    "main.e6dc8a48.js.map": "/SisGDD2/static/js/main.e6dc8a48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b509a809.css",
+    "static/js/main.e6dc8a48.js"
+  ]
+}
